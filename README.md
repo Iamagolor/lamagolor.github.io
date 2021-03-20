@@ -5,14 +5,14 @@
 	</title>
 </head>
 <body>
-	<div style="background-image: url(img/ilitere.png)">
+	<div>
 <div style="position: relative;background-color: #008000;width: 100%;height: 100px; top: -25px;">	
 <h1 style="position: relative;text-align: center; top: 25px;background-image: url(img/golub.png);color: #008000;">VIP сайт</h1>
 </div>
 <section>
 <div style="background-color: #008000;">
 <h2>создан factorial</h2>
-<img src="img/goldji.png">
+<img src="">
 </div>
 </section>
 <div>
@@ -47,8 +47,8 @@
 <section id="satan">
 	<div>
 		<h3>satan</h3>
-		<img src="img/kor.png">
-		<img src="img/kor.png">
+		<img src="">
+		<img src="">
 		<a href="https://vk.com/im?peers=432992225&sel=c4">гугл в помощь</a>
 	</div>	
 </section>
