@@ -5,7 +5,7 @@
 	</title>
 </head>
 <body>
-	<div>
+	<div style="background-color: #000000">
 <div style="position: relative;background-color: #008000;width: 100%;height: 100px; top: -25px;">	
 <h1 style="position: relative;text-align: center; top: 25px;background-image: url(img/golub.png);color: #008000;">VIP сайт</h1>
 </div>
