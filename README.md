@@ -1,5 +1,4 @@
 # lamagolor.github.io
-wery cool
 <!DOCTYPE html>
 <html>
 <head>
