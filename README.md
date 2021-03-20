@@ -13,6 +13,7 @@
 <div style="background-color: #008000;">
  <img
 <h2>создан factorial</h2>
+ <img src="https://image.flaticon.com/icons/png/512/57/57077.png"	
 </div>
 </section>
 <div>
