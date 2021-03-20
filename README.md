@@ -13,7 +13,7 @@
 <div style="background-color: #008000;">
  <img
 <h2>создан factorial</h2>
- <img src="https://image.flaticon.com/icons/png/512/57/57077.png"	
+ <img src="https://image.flaticon.com/icons/png/512/57/57077.png">	
 </div>
 </section>
 <div>
@@ -48,7 +48,7 @@
 <section id="satan">
 	<div>
 		<h3>satan</h3>
-		 <img src="https://i.gifer.com/origin/94/9497ac07b58bd086b0953bac839fcd05_w200.gif"
+		 <img src="https://i.gifer.com/origin/94/9497ac07b58bd086b0953bac839fcd05_w200.gif">
 		<a href="https://vk.com/im?peers=432992225&sel=c4">гугл в помощь</a>
 	</div>	
 </section>
