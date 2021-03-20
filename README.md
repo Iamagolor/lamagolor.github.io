@@ -12,7 +12,7 @@
 <section>
 <div style="background-color: #008000;">
 <h2>создан factorial</h2>
-<img src="img/goldji.png">
+<img src="https://github.com/Iamagolor/lamagolor.github.io/commit/e79832ba7db4c7eb539245553148412f31a5221b?short_path=7fa7329#diff-7fa7329361259fa946c17c3c7f0771d9a873156187d7176cf5b12abf6be944f1">
 </div>
 </section>
 <div>
