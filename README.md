@@ -26,6 +26,12 @@
 		<button><li><a href=""></a></li></button>
 	 </ul>
 </div>
+ <nav>
+  <ul>
+   <button style="background-color: #FFD700;"><li><a href="https://www.youtube.com/channel/UCIapvAOddGTJW1V3Npd2i8w">для общего развития</a></li></button>
+   <button style="background-color: #FFD700;"><li><a href="https://vk.com/im?peers=c36_57651516_432992225&sel=c4">для поиска дз</a></li></button>
+  </ul>
+</nav>
 <section id="cool story">
 <div style="background-color: #008000">	
 <hr>
