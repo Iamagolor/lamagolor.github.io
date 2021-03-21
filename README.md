@@ -61,7 +61,7 @@
 </div>
 </section>
 <section id="12">
- <h3 style="color: #FFD700;">джоджо</h3>
+ <h3>джоджо</h3>
  <iframe width="560" height="315" src="https://www.youtube.com/embed/X_adKeGcmhg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>	
 </section>
 </div>	
