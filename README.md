@@ -61,7 +61,9 @@
 </div>
 </section>
 <section id="12">
- <p></p>	
+ <h3 style="color: #FFD700;">аниме</h3>
+ <video width="400" height="400" controls=""> ></video>
+ <sourse src="https://youtu.be/X_adKeGcmhg">	
 </section>
 </div>	
 </body>
