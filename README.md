@@ -62,8 +62,7 @@
 </section>
 <section id="12">
  <h3 style="color: #FFD700;">аниме</h3>
- <video width="400" height="400" controls=""> ></video>
- <sourse src="https://youtu.be/X_adKeGcmhg">	
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/X_adKeGcmhg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>	
 </section>
 </div>	
 </body>
