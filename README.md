@@ -21,7 +21,7 @@
 		<button style="position: relative;background-color: #FFD700;"><li><a href="#cool stroy">cool story</a></li></button>
 		<button style="position: relative;background-color: #FFD700;"><li><a href="#satan">satan</a></li></button>
 		<button style="position: relative;background-color: #FFD700;"><li><a href="#not Evil">гуль</a></li></button>
-		<button><li><a href=""></a></li></button>
+		<button style="position: relative;background-color: #FFD700;"><li><a href="#12"></a>джоджо</li></button>
 		<button><li><a href=""></a></li></button>
 		<button><li><a href=""></a></li></button>
 	 </ul>
@@ -61,7 +61,7 @@
 </div>
 </section>
 <section id="12">
- <h3 style="color: #FFD700;">аниме</h3>
+ <h3 style="color: #FFD700;">джоджо</h3>
  <iframe width="560" height="315" src="https://www.youtube.com/embed/X_adKeGcmhg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>	
 </section>
 </div>	
