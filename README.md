@@ -21,7 +21,7 @@
 		<button style="position: relative;background-color: #FFD700;"><li><a href="#cool stroy">cool story</a></li></button>
 		<button style="position: relative;background-color: #FFD700;"><li><a href="#satan">satan</a></li></button>
 		<button style="position: relative;background-color: #FFD700;"><li><a href="#not Evil">гуль</a></li></button>
-		<button style="position: relative;background-color: #FFD700;"><li><a href="#12"></a>джоджо</li></button>
+		<button style="position: relative;background-color: #FFD700;"><li><a href="#12">джоджо</a></li></button>
 		<button><li><a href=""></a></li></button>
 		<button><li><a href=""></a></li></button>
 	 </ul>
