@@ -13,7 +13,7 @@
 <section>
 <div style="background-color: #008000;">
 <h2>создан factorial</h2>
- <div style="margin-left: 10px;">
+ <div style="margin-left: 10px;" class="roman">
   <img src="https://image.flaticon.com/icons/png/512/57/57077.png" wildh="100px" height="100px">
  </div>
 </div>
