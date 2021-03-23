@@ -13,12 +13,12 @@
 <section>
 <div style="background-color: #008000;">
 <h2>создан factorial</h2>
- <div style="margin-left: 10px;" class="roman">
+ <div style="margin-left: 10px;">
   <img src="https://image.flaticon.com/icons/png/512/57/57077.png" wildh="100px" height="100px">
  </div>
 </div>
 </section>
-<div>
+<div class="rox">
 	 <ul>
 		<button style="position: relative;background-color: #FFD700;"><li><a href="#cool stroy">cool story</a></li></button>
 		<button style="position: relative;background-color: #FFD700;"><li><a href="#satan">satan</a></li></button>
