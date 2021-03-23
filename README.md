@@ -13,7 +13,9 @@
 <section>
 <div style="background-color: #008000;">
 <h2>создан factorial</h2>
- <img src="https://image.flaticon.com/icons/png/512/57/57077.png" wildh="100px" height="100px">	
+ <div style="margin-left: 10px;">
+  <img src="https://image.flaticon.com/icons/png/512/57/57077.png" wildh="100px" height="100px">
+ </div>
 </div>
 </section>
 <div>
