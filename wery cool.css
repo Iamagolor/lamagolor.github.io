@@ -4,4 +4,5 @@ a{
 .roman{
  border-color: #000000;
  border-style: solid;
+ border-spacing: 5px 5px;
 }
