@@ -1,7 +1,7 @@
 # lamagolor.github.io
 <html>
 <head>
-	<title>wery cool
+	<title>артём токсик 
 	</title>
 </head>
 <body>
