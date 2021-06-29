@@ -24,12 +24,8 @@
 		<button style="position: relative;background-color: #FFD700;"><li><a href="#satan">satan</a></li></button>
 		<button style="position: relative;background-color: #FFD700;"><li><a href="#not Evil">гуль</a></li></button>
 		<button style="position: relative;background-color: #FFD700;"><li><a href="#12">джоджо</a></li></button>
-		<button><li><a href=""></a></li></button>
-		<button><li><a href=""></a></li></button>
 	 </ul>
 </div>
- <nav>
-</nav>
 <section id="cool story">
 <div style="background-color: #008000">	
 <hr>
@@ -70,9 +66,6 @@
  <h3>джоджо</h3>
  <iframe width="560" height="315" src="https://www.youtube.com/embed/X_adKeGcmhg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>	
 </section>
-<div>
-	<p style="color: #C0C0C0;">Весной 2014 мы его забрали у хохлов</p>
-</div>
 </div>	
 </body>
 </html>
