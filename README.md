@@ -75,7 +75,6 @@
 	<div style="background-color: #5743bb">
 		<h3>criteria for acceptance into the zinking team</h3>
 	</div>
-</body>
-</html>
+
 
 
