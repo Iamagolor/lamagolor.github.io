@@ -1,14 +1,15 @@
 # lamagolor.github.io
 <html>
 <head>
-	<title>wery cool
+	<title>
+		wery cool
 	</title>
 </head>
 <body>
 <link rel="stylesheet" type="text/css" href="wery cool.css">
 	<div style="background-color: #000000">
 <div style="position: relative;background-color: #008000;width: 100%;height: 100px; top: -25px;">	
-<h1 style="position: relative;text-align: center; top: 25px;background-image: url(img/golub.png);color: #FF8C00;">VIP сайт</h1>
+<h1 style="position: relative;text-align: center; top: 25px;background-image: url(img/golub.png);color: #FF8C00;">Zinking team's oficial website</h1>
 </div>
 <section>
  <div style="background-color: #008000;">
