@@ -69,8 +69,12 @@
   <section>
 	  <h2>very cool its very cool</h2>
   </secton>
- </div>	
 </div>	
+</div>	
+	
+	<div style="background-color: #5743bb">
+		<h3>criteria for acceptance into the zinking team</h3>
+	</div>
 </body>
 </html>
 
